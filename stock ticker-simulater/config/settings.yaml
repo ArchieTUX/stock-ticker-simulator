@@ -1,0 +1,15 @@
+stocks:
+  AAPL:
+    initial_price: 150.0
+    drift: 0.05
+    volatility: 0.2
+  GOOG:
+    initial_price: 2800.0
+    drift: 0.03
+    volatility: 0.18
+  TSLA:
+    initial_price: 250.0
+    drift: 0.1
+    volatility: 0.3
+
+time_step_minutes: 60
